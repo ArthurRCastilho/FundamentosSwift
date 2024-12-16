@@ -10,3 +10,6 @@ Neste respositório estão os fundamentos de swift que eu estudei.
 - [Operadores](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Fundamentos%20Swift.playground/Pages/OperadoresAritmeticos.xcplaygroundpage/Contents.swift)<br>
 
 ### Controle de Fluxo
+- [Operadores Relacionais]()<br>
+- [Condicionais]()<br>
+- [Intervalo de Valores]()<br>
