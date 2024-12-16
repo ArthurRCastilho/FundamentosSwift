@@ -20,11 +20,11 @@ Neste respositório estão os fundamentos de swift que eu estudei.
 - [Break e Continue](https://github.com/ArthurRCastilho/FundamentosSwift/tree/main/Loopings.playground/Pages/BreakContinue.xcplaygroundpage/Contents.swift)<br>
 
 ### Funções e Opcionais
-- [Funções]()<br>
-- [Opcionais]()<br>
+- [Funções](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Funcoes.playground/Pages/Funcoes.xcplaygroundpage/Contents.swift)<br>
+- [Opcionais](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Funcoes.playground/Pages/Opcionais.xcplaygroundpage/Contents.swift)<br>
 
 ### Coleções
-- [Arrays]()<br>
-- [Sets]()<br>
-- [Tuplas]()<br>
-- [Dicionários]()<br>
+- [Arrays](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Colecoes.playground/Pages/Arrays.xcplaygroundpage/Contents.swift)<br>
+- [Sets](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Colecoes.playground/Pages/Sets.xcplaygroundpage/Contents.swift)<br>
+- [Tuplas](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Colecoes.playground/Pages/Tuplas.xcplaygroundpage/Contents.swift)<br>
+- [Dicionários](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Colecoes.playground/Pages/Dicionario.xcplaygroundpage/Contents.swift)<br>
