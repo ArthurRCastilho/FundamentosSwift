@@ -15,9 +15,16 @@ Neste respositório estão os fundamentos de swift que eu estudei.
 - [Intervalo de Valores](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Controle%20de%20Fluxo.playground/Pages/IntervaloDeValores.xcplaygroundpage/Contents.swift)<br>
 
 ### Loopings
-- [For]()<br>
-- [While]()<br>
-- [Break e Continue]()<br>
+- [For](https://github.com/ArthurRCastilho/FundamentosSwift/tree/main/Loopings.playground/Pages/loopingComFor.xcplaygroundpage/Contents.swift)<br>
+- [While](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Loopings.playground/Pages/loopingComWhile.xcplaygroundpage/Contents.swift)<br>
+- [Break e Continue](https://github.com/ArthurRCastilho/FundamentosSwift/tree/main/Loopings.playground/Pages/BreakContinue.xcplaygroundpage/Contents.swift)<br>
 
 ### Funções e Opcionais
+- [Funções]()<br>
+- [Opcionais]()<br>
+
 ### Coleções
+- [Arrays]()<br>
+- [Sets]()<br>
+- [Tuplas]()<br>
+- [Dicionários]()<br>
