@@ -28,3 +28,7 @@ Neste respositório estão os fundamentos de swift que eu estudei.
 - [Sets](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Colecoes.playground/Pages/Sets.xcplaygroundpage/Contents.swift)<br>
 - [Tuplas](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Colecoes.playground/Pages/Tuplas.xcplaygroundpage/Contents.swift)<br>
 - [Dicionários](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Colecoes.playground/Pages/Dicionario.xcplaygroundpage/Contents.swift)<br>
+
+### Structures e Classes
+- [Structs]()<br>
+- [Classes]()<br>
