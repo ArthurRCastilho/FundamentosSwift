@@ -30,5 +30,5 @@ Neste respositório estão os fundamentos de swift que eu estudei.
 - [Dicionários](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/Colecoes.playground/Pages/Dicionario.xcplaygroundpage/Contents.swift)<br>
 
 ### Structures e Classes
-- [Structs]()<br>
-- [Classes]()<br>
+- [Structs](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/StructuresClasses.playground/Pages/Structs.xcplaygroundpage/Contents.swift)<br>
+- [Classes](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/StructuresClasses.playground/Pages/Classes.xcplaygroundpage/Contents.swift)<br>
