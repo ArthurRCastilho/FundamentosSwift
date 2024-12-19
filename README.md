@@ -32,10 +32,10 @@ Neste respositório estão os fundamentos de swift que eu estudei.
 ### Structures e Classes
 - [Structs](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/StructuresClasses.playground/Pages/Structs.xcplaygroundpage/Contents.swift)<br>
 - [Classes](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/StructuresClasses.playground/Pages/Classes.xcplaygroundpage/Contents.swift)<br>
-- [Diferença entre Structs e Classes]()<br>
+- [Diferença entre Structs e Classes](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/StructuresClasses.playground/Pages/diferencasStructsClasses.xcplaygroundpage/Contents.swift)<br>
 
 ### Herança e Polimorfismo
-- [Herança]()<br>
-- [Super]()<br>
-- [Overide]()<br>
-- [Polimorfismo e Typecasting]()<br>
+- [Herança](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/HerancaPolimorfismo.playground/Pages/Heranca.xcplaygroundpage/Contents.swift)<br>
+- [Super](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/HerancaPolimorfismo.playground/Pages/Super.xcplaygroundpage/Contents.swift)<br>
+- [Overide](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/HerancaPolimorfismo.playground/Pages/Overide.xcplaygroundpage/Contents.swift)<br>
+- [Polimorfismo e Typecasting](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/HerancaPolimorfismo.playground/Pages/PolimorfismoTypecasting.xcplaygroundpage/Contents.swift)<br>
