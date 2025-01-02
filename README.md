@@ -41,3 +41,5 @@ Neste respositório estão os fundamentos de swift que eu estudei.
 - [Polimorfismo e Typecasting](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/HerancaPolimorfismo.playground/Pages/PolimorfismoTypecasting.xcplaygroundpage/Contents.swift)<br>
 - [Extension](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/HerancaPolimorfismo.playground/Pages/Extension.xcplaygroundpage/Contents.swift)<br>
 - [Protocolos](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/HerancaPolimorfismo.playground/Pages/Protocolos.xcplaygroundpage/Contents.swift)<br>
+- [Enumerações](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/HerancaPolimorfismo.playground/Pages/Enumeracoes.xcplaygroundpage/Contents.swift)<br>
+- [Raw Values](https://github.com/ArthurRCastilho/FundamentosSwift/blob/main/HerancaPolimorfismo.playground/Pages/RawValues.xcplaygroundpage/Contents.swift)<br>
